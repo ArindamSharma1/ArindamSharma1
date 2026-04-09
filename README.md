@@ -1,14 +1,14 @@
 ### Hi, I'm Arindam 👋
 
-**Computer Science Graduate | Full Stack (MERN) | Security-Focused Development**
+**Cybersecurity Student | SOC & Threat Detection | Secure Development**
 
-I build secure, scalable web applications with a strong focus on clean architecture, performance, and reliability. My background in cybersecurity helps me approach development with a security-first mindset, from authentication flows to deployment.
+I build and break secure systems with a focus on threat detection, log analysis, and secure application development. Currently finishing my B.Tech in Cyber Security, with hands-on experience running a home SOC lab using Wazuh and ELK Stack.
 
 ---
 
 #### 🛠️ Tech Stack
-- **Core:** React, Node.js, TypeScript, Next.js, PostgreSQL
-- **Security:** OWASP Top 10, Wazuh (SIEM), Burp Suite  
+- **Security:** Wazuh (SIEM), ELK Stack, Burp Suite, Nmap, OWASP Top 10, IDS/IPS
+- **Core:** Python, Node.js, TypeScript, Next.js, PostgreSQL
 - **DevOps:** Docker, GitHub Actions, Linux
 
 ---
@@ -17,13 +17,12 @@ I build secure, scalable web applications with a strong focus on clean architect
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
+| **SOC Automation Lab** | *Wazuh, ELK Stack, Python, Linux* | Home SOC lab with custom alert rules, Kibana dashboards for brute-force and port scan detection, and Python log normalization scripts. |
+| **[LearnVista](https://learn-vista-xi.vercel.app/)** | *Moodle LMS, Next.js, TypeScript* | Cloud-based LMS with multi-language support. 1st Prize at university hackathon; selected for patent filing. |
+| **[TGE Store](https://tge-store.vercel.app/)** | *Full Stack, Medusa, PostgreSQL, Docker* | Full-stack platform with RBAC, HTTP-only cookie sessions, and secure authentication flows. |
 | **[FolioGauge](https://github.com/ArindamSharma1/FolioGauge)** | *Next.js, TypeScript, Python, PostgreSQL* | SaaS platform that analyzes developer portfolios and provides structured feedback on UX, content, and performance. |
-| **[LearnVista](https://learn-vista-xi.vercel.app/)** | *Moodle LMS, Nextjs, TypeScript* |  A cloud-based learning management platform with multi-language support for diverse user groups.
-| **[TGE Store](https://tge-store.vercel.app/)** | *Full Stack, Medusa, PostgreSQL, Docker* | A full-stack platform featuring Role-Based Access Control (RBAC) to separate Admin and User privileges.
-| **SecureShop** | *MERN, Docker* | Full-stack e-commerce application with role-based access control and secure authentication flows. |
-| **SOC Automation Lab** | *ELK, Python* | Log-driven threat detection setup for identifying brute-force login attempts. |
 
 ---
 
 #### 📫 Connect
-[Portfolio](https://arindam-sharma-full-stack-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/arindam-sharma-ab4712251/) • [Email](mailto:sharmaarindam693@gmail.com)
+[Portfolio](https://arindam-sharma-cybersec-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/arindam-sharma-ab4712251/) • [Email](mailto:sharmaarindam091@gmail.com)
