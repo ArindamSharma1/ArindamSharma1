@@ -1,28 +1,86 @@
-### Hi, I'm Arindam 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="hero-light.svg">
+    <img alt="Arindam Sharma - Software Engineer & Security Student" src="hero-light.svg" width="100%">
+  </picture>
+</div>
 
-**Cybersecurity Student | SOC & Threat Detection | Secure Development**
+<br />
 
-I build and break secure systems with a focus on threat detection, log analysis, and secure application development. Currently finishing my B.Tech in Cyber Security, with hands-on experience running a home SOC lab using Wazuh and ELK Stack.
+I write software, study security, and build infrastructure.
 
----
+<br />
 
-#### 🛠️ Tech Stack
-- **Security:** Wazuh (SIEM), ELK Stack, Burp Suite, Nmap, OWASP Top 10, IDS/IPS
-- **Core:** Python, Node.js, TypeScript, Next.js, PostgreSQL
-- **DevOps:** Docker, GitHub Actions, Linux
+```text
+01 / BUILD
+Distributed systems, web applications, developer tooling
 
----
+02 / SECURE
+Threat detection, application security, secure backend design
 
-#### 🚀 Featured Projects
+03 / EXPLORE
+Systems engineering, automation, infrastructure
+```
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **SOC Automation Lab** | *Wazuh, ELK Stack, Python, Linux* | Home SOC lab with custom alert rules, Kibana dashboards for brute-force and port scan detection, and Python log normalization scripts. |
-| **[LearnVista](https://learn-vista-xi.vercel.app/)** | *Moodle LMS, Next.js, TypeScript* | Cloud-based LMS with multi-language support. 1st Prize at university hackathon; selected for patent filing. |
-| **[TGE Store](https://tge-store.vercel.app/)** | *Full Stack, Medusa, PostgreSQL, Docker* | Full-stack platform with RBAC, HTTP-only cookie sessions, and secure authentication flows. |
-| **[FolioGauge](https://github.com/ArindamSharma1/FolioGauge)** | *Next.js, TypeScript, Python, PostgreSQL* | SaaS platform that analyzes developer portfolios and provides structured feedback on UX, content, and performance. |
+<br />
 
----
+**Now**
+→ distributed systems
+→ application security
+→ automated detection
 
-#### 📫 Connect
-[Portfolio](https://arindam-sharma-cybersec-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/arindam-sharma-ab4712251/) • [Email](mailto:sharmaarindam091@gmail.com)
+<br />
+
+### Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ArindamSharma1/connect4-realtime">Connect4 Realtime</a></strong><br/>
+      <i>Kafka · WebSockets · Node.js · PostgreSQL</i><br/><br/>
+      Event-driven multiplayer backend<br/>
+      with real-time state synchronization.<br/><br/>
+      <pre>Client → WebSocket → Node → Kafka
+                     ↓
+                PostgreSQL</pre>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ArindamSharma1/FolioGauge">FolioGauge</a></strong><br/>
+      <i>Next.js · Python · PostgreSQL</i><br/><br/>
+      Portfolio analysis SaaS<br/>
+      with scraping + structured feedback.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>SOC Automation Lab</strong> <i>(Private)</i><br/>
+      <i>Wazuh · ELK Stack · Python</i><br/><br/>
+      Home SIEM environment<br/>
+      with custom log normalization & alert rules.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ArindamSharma1/TGE_Store">TGE Store</a></strong><br/>
+      <i>Next.js · Medusa · PostgreSQL · Docker</i><br/><br/>
+      E-Commerce infrastructure<br/>
+      with RBAC & HTTP-only session management.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### Toolkit
+
+```yaml
+languages:    [TypeScript, JavaScript, Python]
+application:  [Next.js, Node.js, WebSockets]
+systems:      [Kafka, PostgreSQL, Docker, Linux]
+security:     [Wazuh, ELK Stack, Burp Suite, OWASP]
+```
+
+<br />
+
+### Links
+
+[Portfolio](https://arindam-sharma-portfolio.vercel.app/) <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> [LinkedIn](https://www.linkedin.com/in/arindam-sharma-ab4712251/) <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> [sharmaarindam091@gmail.com](mailto:sharmaarindam091@gmail.com)
