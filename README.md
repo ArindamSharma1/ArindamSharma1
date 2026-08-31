@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="hero-light.svg">
-    <img alt="Arindam Sharma - Software Engineer & Security Student" src="hero-light.svg" width="100%">
+    <img alt="Arindam Sharma - Security & Software Engineer" src="hero-light.svg" width="100%">
   </picture>
 </div>
 
