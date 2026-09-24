@@ -8,7 +8,7 @@
 
 <br />
 
-I write software, study security, and build infrastructure.
+I'm a security engineer, software engineer
 
 <br />
 
